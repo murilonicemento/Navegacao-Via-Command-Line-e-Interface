@@ -1,3 +1,3 @@
-# Navegacao Via Command Line e Interface
-Repositório com os comandos via line e interface
+# Navegacao Via Command Line Interface
+Repositório com os comandos via line interface
 ### Comandos Básicos Prompt de Comando
