@@ -1,6 +1,7 @@
 # Navegacao Via Command Line Interface
 Repositório com os comandos via line interface
 ### Comandos Básicos Prompt de Comando
+- ping <site> - testar a conectividade
 - DIR - Listagem de diretores contidos na pasta situada
 - CD/ - Permiti navegar entre as pastas
 - CD.. - Utilizado para retroceder
