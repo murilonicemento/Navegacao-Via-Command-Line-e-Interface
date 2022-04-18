@@ -21,7 +21,7 @@ Repositório com os comandos via line interface
 - Git clone - clona o repositório
 - Git restore <file name> - restaura um arquivo que foi excluido 
 - Git push origin master/main - enviar o arquivo para o repositório
-- Git pull origin master/main -  usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais
+- Git pull origin master/main -  usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais. Utilizar antes de fazer o git push quando o comando git push origin main/master estiver dando erro
 - Git commit -m "..." - colocar algum comentário
 - Git remote -v: mostra os repositórios remotos
 - Git remote add origin <link repositório> - adiciona uma alteração no diretório
